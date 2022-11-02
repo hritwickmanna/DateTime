@@ -1,13 +1,13 @@
-# DateTime
+# TODO List
 
-Project - 1
-
-Date and Time of different countries
+Project - 2
 
 Tech Stack Used:
 
 1. HTML
 
-2. BootStrap CSS
+2. Bootstrap CSS
 
 3. JavaScript
+
+4. DOM
